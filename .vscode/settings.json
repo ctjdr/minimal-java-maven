@@ -1,4 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
+    "java.jdt.ls.lombokSupport.enabled": false,
     "java.trace.server": "messages",
 }
