@@ -2,4 +2,5 @@
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.jdt.ls.lombokSupport.enabled": false,
     "java.trace.server": "messages",
+    "java.server.launchMode": "Standard"
 }
